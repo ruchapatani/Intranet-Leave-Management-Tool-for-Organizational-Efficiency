@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17 Sep, 2019, 6:42:46 PM
+    Author     : Rucha
+*/
+.rucha
+{
+    width: 100%;
+}
+form { 
+margin: 0 auto; 
+width:350px;
+}
+.banner {padding-top:1px;
+			padding-bottom:1px; 
+             text-align: center; 
+             color: #000000; 
+             background: url(img/background4.jpg) no-repeat center;
+             background-size: cover;
+} 
+.banner-image{ padding-top:50px;
+			padding-bottom:70px; 
+             text-align: center; 
+             color: #000000; 
+             background: url(img/background1.jpg) no-repeat center;
+             background-size: cover;}
+
+
+
+.inner-banner-image{padding-top: 12%; 
+                   width:50%; 
+                   margin:auto;}
+.inbanner{margin-left: 250px;
+		margin-right: 180px;
+		margin-bottom: 30px;
+		background-color: rgba(240, 96, 58, 0.7);
+                  }
+				   
+.banner-content{position:relative;
+                padding-top: 6%;
+                padding-bottom: 6%; 
+                overflow:hidden;
+                color: #FFFFFF;
+               margin-bottom: 12%;
+               background-color: rgba(240, 96, 58, 0.7);
+               max-width: 660px;}
+
+footer{padding: 10px 0;
+ background-color: #E94022;
+color:#000000;
+ bottom: 0;
+ width: 100%;
+text-align :center;}
+
+
+    .content{
+    min-height: 600px;
+    margin:auto;
+    align: center;
+}
+
